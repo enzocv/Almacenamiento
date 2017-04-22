@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Almacenamiento</string>
+    <string name="action_settings">Colores</string>
+    <string name="action_almint">Alm. Interno</string>
+    <string name="action_almext">Alm. Externo</string>
+    <string name="sp_color_bar">COLOR_BARRA</string>
+    <string name="txt_edttexto">Escriba el contenido</string>
+    <string name="txt_btnsave">Guardar</string>
+    <string name="txt_btnload">Cargar</string>
+    <string name="txt_namefile">Nombre del Fichero</string>
+</resources>
