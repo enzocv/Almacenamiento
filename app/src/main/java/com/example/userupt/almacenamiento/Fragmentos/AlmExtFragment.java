@@ -33,7 +33,7 @@ import java.util.Vector;
 
 public class AlmExtFragment extends Fragment {
 
-    final String fichero = "archivo";
+    final String fichero = Environment.getExternalStorageDirectory() + "/Documento.txt";
     Context context;
 
     // Atributos para permisos
